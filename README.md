@@ -7,6 +7,7 @@ Simple CNN model for FER2013 dataset with ***64.78 accuracy*** on test data. The
 - Sad
 - Surprise
 - Neutral
+
 ***Human accuracy*** on the dataset is ***65.5%***[2] and a simple CNN model can be trained to achieve that accuracy.
 
 ## Model
